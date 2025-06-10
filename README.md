@@ -46,22 +46,33 @@ join existing ones, and engage in discussions.
 
 - Login Screen </br>
   <img src="Screenshots/LoginScreen.png" alt="Login Screen" width="300" height="650"/>
+
 - Home Screen </br>
   <img src="Screenshots/Home_Screen.png" alt="Home Screen" width="300" height="650"/>
+
+- Community Screen </br>
+  <img src="Screenshots/Community_Screen.png" alt="Community Screen" width="300" height="650"/>
+
 - Comment Section </br>
   <img src="Screenshots/CommentsScreen.png" alt="Comment Section" width="300" height="650"/>
+
 - Community List Drawer </br>
-  <img src="Screenshots/communitylist_drawer.png" alt="SUser Communities Drawer" width="300" height="650"/>
+  <img src="Screenshots/communitylist_drawer.png" alt="Community list Drawer" width="300" height="650"/>
+
 - Light Theme </br>
-  <img src="Screenshots/light_theme.png" alt="SUser Communities Drawer" width="300" height="650"/>
+  <img src="Screenshots/light_theme.png" alt="Toggle Theme" width="300" height="650"/>
+
 - Search Screen </br>
-  <img src="Screenshots/Search_Screen.png" alt="SUser Communities Drawer" width="300" height="650"/>
+  <img src="Screenshots/Search_Screen.png" alt="Search Screen" width="300" height="650"/>
+
 - Post Type Screen </br>
-  <img src="Screenshots/add_post_type_screen.png" alt="SUser Communities Drawer" width="300" height="650"/>
+  <img src="Screenshots/add_post_type_screen.png" alt="Type of Post" width="300" height="650"/>
+
 - User Profile </br>
   <img src="Screenshots/User_Profile.png" alt="User Profile Screen" width="300" height="650"/>
+
 - Edit User Profile </br>
-  <img src="Screenshots/editProfile_screen.png" alt="Edit User Profile Screen" width="300" height="650"/>
+  <img src="Screenshots/editProfile_screen.png" alt="Edit User Profile" width="300" height="650"/>
 
 
 ## Guide to Installation
