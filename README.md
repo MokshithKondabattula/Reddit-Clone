@@ -4,41 +4,41 @@ A simple Responsive Reddit Clone!
 
 ## Features
 
-Google/Guest Authentication
+-Google/Guest Authentication
 
-Create, Join community
+-Create, Join community
 
-Community Profile (Avatar, Banner, Members)
+-Community Profile (Avatar, Banner, Members)
 
-Edit Description and Avatar of community
+-Edit Description and Avatar of community
 
-Post (link only, photo, text only)
+-Post (link only, photo, text only)
 
-Displaying posts from communities user is part of
+-Displaying posts from communities user is part of
 
-Upvote, Downvote
+-Upvote, Downvote
 
-Comment
+-Comment
 
-Award the Post
+-Award the Post
 
-Update Karma
+-Update Karma
 
-Add Moderators
+-Add Moderators
 
-Moderator: remove post
+-Moderator: remove post
 
-Delete post
+-Delete post
 
-User Profile (Avatar, Banner)
+-User Profile (Avatar, Banner)
 
-Theme Switch
+-Theme Switch
 
-Cross Platform
+-Cross Platform
 
-Responsive UI
+-Responsive UI
 
-Latest posts (instead of home, display this to guest users but they should be not able to upvote,downvote or comment on the posts)
+-Latest posts (instead of home, display this to guest users but they should be not able to upvote,downvote or comment on the posts)
 
 
 ## Steps to Installation
