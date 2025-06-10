@@ -44,6 +44,24 @@ join existing ones, and engage in discussions.
 
 ## Screenshots
 
+- Login Screen </br>
+  <img src="screenshots/LoginScreen.png" alt="Login Screen" width="300" height="650"/>
+- Home Screen </br>
+  <img src="screenshots/Home_Screen.png" alt="Home Screen" width="300" height="650"/>
+- Comment Section </br>
+  <img src="screenshots/CommentsScreen.png" alt="Comment Section" width="300" height="650"/>
+- Community List Drawer </br>
+  <img src="screenshots/communitylist_drawer.png" alt="SUser Communities Drawer" width="300" height="650"/>
+- Light Theme </br>
+  <img src="screenshots/light_theme.png" alt="SUser Communities Drawer" width="300" height="650"/>
+- Search Screen </br>
+  <img src="screenshots/Search_Screen.png" alt="SUser Communities Drawer" width="300" height="650"/>
+- Post Type Screen </br>
+  <img src="screenshots/add_post_type_screen.png" alt="SUser Communities Drawer" width="300" height="650"/>
+- User Profile </br>
+  <img src="screenshots/User_Profile.png" alt="User Profile Screen" width="300" height="650"/>
+- Edit User Profile </br>
+  <img src="screenshots/editProfile_screen.png" alt="Edit User Profile Screen" width="300" height="650"/>
 
 
 ## Guide to Installation
