@@ -5,6 +5,7 @@ import 'package:temp_flutter_fix/responsive/responsive.dart';
 import 'package:temp_flutter_fix/core/common/sign_in_button.dart';
 import 'package:temp_flutter_fix/features/auth/controller/auth_controller.dart';
 import 'package:temp_flutter_fix/core/common/loader.dart';
+import 'package:temp_flutter_fix/theme/pallete.dart';
 
 class LoginScreen extends ConsumerWidget {
   const LoginScreen({super.key});
@@ -19,18 +20,20 @@ class LoginScreen extends ConsumerWidget {
 
     return Scaffold(
       appBar: AppBar(
+        centerTitle: true,
         title: Image.asset(Constants.logoPath, height: 40),
         actions: [
           TextButton(
             onPressed: () => signInAsGuest(ref, context),
-            child: const Text(
+            child: Text(
               'Skip',
-              style: TextStyle(fontWeight: FontWeight.bold),
-              selectionColor: Color.fromRGBO(0, 0, 255, 0.5),
+              style: const TextStyle(fontWeight: FontWeight.bold),
+              selectionColor: Pallete.blueColor,
             ),
           ),
         ],
       ),
+
       body:
           isLoading
               ? const Loader()
