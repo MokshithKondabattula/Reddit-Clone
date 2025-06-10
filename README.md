@@ -1,6 +1,6 @@
 # Reddit Clone
 
-A simple Responsive Reddit Clone!
+A simple Responsive Reddit Clone using Flutter + Firebase!
 
 ## Key Features
 
