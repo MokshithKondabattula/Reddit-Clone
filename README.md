@@ -51,16 +51,20 @@ Follow the following steps:
 
 Then run the following commands to run your app:
 
-  flutter pub get (Update every package you initialized in the pubspec.yaml ile)
+```bash
+  flutter pub get (Update every package you initialized in the pubspec.yaml file)
   open -a simulator (to get iOS Simulator)
   flutter build apk (first build the apk and run the command 'flutter run' To run the app in the Android device)
   flutter run
   flutter run -d chrome (To run the app on the Web)
+```
 
 ## Backend Infrastructure
 
 Authentication & Security: Firebase Authentication
+
 File Storage: Firebase Storage
+
 Database: Firebase Cloud Firestore 
 
 ## Frontend Architecture
