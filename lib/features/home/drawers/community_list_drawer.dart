@@ -46,6 +46,7 @@ class CommunityListDrawer extends ConsumerWidget {
                           children: [
                             SingleChildScrollView(
                               child: ListView.builder(
+                                shrinkWrap: true,
                                 itemCount: communities.length,
                                 itemBuilder: (BuildContext context, int index) {
                                   final community = communities[index];
