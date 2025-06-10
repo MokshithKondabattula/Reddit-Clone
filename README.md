@@ -1,8 +1,6 @@
-# Flutter Reddit Clone
+# Reddit Clone Flutter
 
-This is a Reddit clone application built with Flutter, utilizing Firebase and Riverpod for state
-management. The app aims to provide a Reddit-like experience where users can create communities,
-join existing ones, and engage in discussions.
+ Simple Responsive reddit clone which works on Android, ios and web.
 
 ## Key Features
 

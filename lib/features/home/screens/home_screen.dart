@@ -8,7 +8,6 @@ import 'package:temp_flutter_fix/features/home/delegates/search_community_delega
 import 'package:temp_flutter_fix/features/home/drawers/community_list_drawer.dart';
 import 'package:temp_flutter_fix/features/home/drawers/profile_drawer.dart';
 import 'package:temp_flutter_fix/theme/pallete.dart';
-import 'package:routemaster/routemaster.dart';
 
 class HomeScreen extends ConsumerStatefulWidget {
   const HomeScreen({super.key});
