@@ -2,7 +2,7 @@
 
 A simple Responsive Reddit Clone!
 
-## Features
+## Key Features
 
 -Google and Guest Authentication
 
@@ -16,7 +16,7 @@ A simple Responsive Reddit Clone!
 
 -Displaying posts from communities user is part of
 
--Upvote, Downvote
+-Upvote and Downvote
 
 -Comment
 
@@ -41,7 +41,7 @@ A simple Responsive Reddit Clone!
 -Latest posts (instead of home, display this to guest users but they should be not able to upvote,downvote or comment on the posts)
 
 
-## Steps to Installation
+## Guide to Installation
 Follow the following steps:
 - Create Firebase Project
 - Enable Authentication (Google Sign In, Guest Sign In) using Firebase Auth
