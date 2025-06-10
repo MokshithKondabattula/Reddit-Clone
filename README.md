@@ -4,9 +4,9 @@ A simple Responsive Reddit Clone!
 
 ## Features
 
--Google/Guest Authentication
+-Google and Guest Authentication
 
--Create, Join community
+-Create(mod), Join community(members)
 
 -Community Profile (Avatar, Banner, Members)
 
@@ -30,9 +30,9 @@ A simple Responsive Reddit Clone!
 
 -Delete post
 
--User Profile (Avatar, Banner)
+-Edit User Profile (Avatar, Banner)
 
--Theme Switch
+-Theme Switch(Toggling)
 
 -Cross Platform
 
