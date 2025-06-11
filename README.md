@@ -1,6 +1,6 @@
 # Reddit Clone Flutter
 
- Simple Responsive Reddit Clone which works on Android, Ios and Web.
+ A Simple Responsive Reddit Clone which     works on Android, Ios and Web.
 
 ## Key Features
 
