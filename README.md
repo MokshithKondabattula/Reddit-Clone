@@ -38,7 +38,7 @@
 
 -Responsive UI
 
--Latest posts (instead of home, display this to guest users but they should be not able to upvote,downvote or comment on the posts)
+-Latest posts (instead of home, displayed to the guest users but they won't able to upvote,downvote or comment on the posts)
 
 ## Screenshots
 
